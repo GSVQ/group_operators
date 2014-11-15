@@ -23,7 +23,7 @@ if (!$owner) {
 
 ?>
 <div class="groups-profile clearfix elgg-image-block">
-	<div class="elgg-image" style="width:30%">
+	<div class="elgg-image" style="width:200px">
 		<div class="groups-profile-icon">
 			<?php
 				// we don't force icons to be square so don't set width/height
